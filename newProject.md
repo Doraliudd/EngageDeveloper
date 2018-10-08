@@ -27,7 +27,8 @@
 6.上传完后，应用程序业务逻辑代码Demo查看。
 
 * a、上传到业务逻辑代码效果。
-* 
+* b、会议室预订日期查重代码Demo。
+
 验证会议室预订日期查重应用程序，日期查重功能的展示效果。[^1]
 
 [^1]: 详细内容请参阅[帮助文档](https://crm.xiaoshouyi.com/doc/document/index.html)《销售易Eclipse Plugin开发手册》
