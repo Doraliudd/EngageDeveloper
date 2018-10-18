@@ -137,7 +137,7 @@ public class UpdateMeetingTrigger implements ScriptTrigger{
 
 验证会议室预订日期查重应用程序，日期查重功能的展示效果。[^1]
 
-![](/assets/meetingData.png)
+![](/assets/meetingDate.png)
 
 [^1]: 详细内容请参阅[帮助文档](https://crm.xiaoshouyi.com/doc/document/index.html)《销售易Eclipse Plugin开发手册》
 
