@@ -28,7 +28,7 @@
 
 * a、上传到业务逻辑代码效果。
 
-![](/assets/meetingtrigger.png)
+
 
 * b、会议室预订日期查重代码Demo。
 
